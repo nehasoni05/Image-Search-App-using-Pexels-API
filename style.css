@@ -41,11 +41,13 @@ input
     border-radius: 5px;
     height: 240px;
     cursor: pointer;
+    object-fit: cover;
 }
 figcaption
 {
     font-weight: bold;
     font-size: 15px;
+    margin-top: 0.7rem;
 }
 button{
     background-color: #4CAF50;
